@@ -1,0 +1,6 @@
+c:\users\triosstudent\documents\visual studio 2015\Projects\SquaredValues\SquaredValues\bin\Debug\SquaredValues.exe.config
+c:\users\triosstudent\documents\visual studio 2015\Projects\SquaredValues\SquaredValues\bin\Debug\SquaredValues.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\SquaredValues\SquaredValues\bin\Debug\SquaredValues.pdb
+c:\users\triosstudent\documents\visual studio 2015\Projects\SquaredValues\SquaredValues\obj\Debug\SquaredValues.csprojResolveAssemblyReference.cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\SquaredValues\SquaredValues\obj\Debug\SquaredValues.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\SquaredValues\SquaredValues\obj\Debug\SquaredValues.pdb

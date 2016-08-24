@@ -1,0 +1,6 @@
+c:\users\triosstudent\documents\visual studio 2015\Projects\BonusCalculator\BonusCalculator\bin\Debug\BonusCalculator.exe.config
+c:\users\triosstudent\documents\visual studio 2015\Projects\BonusCalculator\BonusCalculator\bin\Debug\BonusCalculator.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\BonusCalculator\BonusCalculator\bin\Debug\BonusCalculator.pdb
+c:\users\triosstudent\documents\visual studio 2015\Projects\BonusCalculator\BonusCalculator\obj\Debug\BonusCalculator.csprojResolveAssemblyReference.cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\BonusCalculator\BonusCalculator\obj\Debug\BonusCalculator.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\BonusCalculator\BonusCalculator\obj\Debug\BonusCalculator.pdb

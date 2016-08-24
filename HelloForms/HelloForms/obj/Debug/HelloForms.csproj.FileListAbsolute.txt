@@ -1,0 +1,9 @@
+c:\users\triosstudent\documents\visual studio 2015\Projects\HelloForms\HelloForms\bin\Debug\HelloForms.exe.config
+c:\users\triosstudent\documents\visual studio 2015\Projects\HelloForms\HelloForms\bin\Debug\HelloForms.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\HelloForms\HelloForms\bin\Debug\HelloForms.pdb
+c:\users\triosstudent\documents\visual studio 2015\Projects\HelloForms\HelloForms\obj\Debug\HelloForms.csprojResolveAssemblyReference.cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\HelloForms\HelloForms\obj\Debug\HelloForms.Form1.resources
+c:\users\triosstudent\documents\visual studio 2015\Projects\HelloForms\HelloForms\obj\Debug\HelloForms.Properties.Resources.resources
+c:\users\triosstudent\documents\visual studio 2015\Projects\HelloForms\HelloForms\obj\Debug\HelloForms.csproj.GenerateResource.Cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\HelloForms\HelloForms\obj\Debug\HelloForms.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\HelloForms\HelloForms\obj\Debug\HelloForms.pdb

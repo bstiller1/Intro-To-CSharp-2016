@@ -1,0 +1,8 @@
+c:\users\triosstudent\documents\visual studio 2015\Projects\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe.config
+c:\users\triosstudent\documents\visual studio 2015\Projects\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\DelegateExample\DelegateExample\bin\Debug\DelegateExample.pdb
+c:\users\triosstudent\documents\visual studio 2015\Projects\DelegateExample\DelegateExample\obj\Debug\DelegateExample.Form1.resources
+c:\users\triosstudent\documents\visual studio 2015\Projects\DelegateExample\DelegateExample\obj\Debug\DelegateExample.Properties.Resources.resources
+c:\users\triosstudent\documents\visual studio 2015\Projects\DelegateExample\DelegateExample\obj\Debug\DelegateExample.csproj.GenerateResource.Cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\DelegateExample\DelegateExample\obj\Debug\DelegateExample.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\DelegateExample\DelegateExample\obj\Debug\DelegateExample.pdb

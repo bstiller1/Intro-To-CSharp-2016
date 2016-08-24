@@ -1,0 +1,5 @@
+c:\users\triosstudent\documents\visual studio 2015\Projects\ValidInput\ValidInput\bin\Debug\ValidInput.exe.config
+c:\users\triosstudent\documents\visual studio 2015\Projects\ValidInput\ValidInput\bin\Debug\ValidInput.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\ValidInput\ValidInput\bin\Debug\ValidInput.pdb
+c:\users\triosstudent\documents\visual studio 2015\Projects\ValidInput\ValidInput\obj\Debug\ValidInput.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\ValidInput\ValidInput\obj\Debug\ValidInput.pdb

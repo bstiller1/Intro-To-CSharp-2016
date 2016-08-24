@@ -1,0 +1,9 @@
+c:\users\triosstudent\documents\visual studio 2015\Projects\GardeningExample\GardeningExample\bin\Debug\GardeningExample.exe.config
+c:\users\triosstudent\documents\visual studio 2015\Projects\GardeningExample\GardeningExample\bin\Debug\GardeningExample.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\GardeningExample\GardeningExample\bin\Debug\GardeningExample.pdb
+c:\users\triosstudent\documents\visual studio 2015\Projects\GardeningExample\GardeningExample\obj\Debug\GardeningExample.csprojResolveAssemblyReference.cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\GardeningExample\GardeningExample\obj\Debug\GardeningExample.Form1.resources
+c:\users\triosstudent\documents\visual studio 2015\Projects\GardeningExample\GardeningExample\obj\Debug\GardeningExample.Properties.Resources.resources
+c:\users\triosstudent\documents\visual studio 2015\Projects\GardeningExample\GardeningExample\obj\Debug\GardeningExample.csproj.GenerateResource.Cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\GardeningExample\GardeningExample\obj\Debug\GardeningExample.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\GardeningExample\GardeningExample\obj\Debug\GardeningExample.pdb

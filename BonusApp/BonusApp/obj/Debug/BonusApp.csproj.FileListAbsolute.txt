@@ -1,0 +1,6 @@
+c:\users\triosstudent\documents\visual studio 2015\Projects\BonusApp\BonusApp\bin\Debug\BonusApp.exe.config
+c:\users\triosstudent\documents\visual studio 2015\Projects\BonusApp\BonusApp\bin\Debug\BonusApp.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\BonusApp\BonusApp\bin\Debug\BonusApp.pdb
+c:\users\triosstudent\documents\visual studio 2015\Projects\BonusApp\BonusApp\obj\Debug\BonusApp.csprojResolveAssemblyReference.cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\BonusApp\BonusApp\obj\Debug\BonusApp.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\BonusApp\BonusApp\obj\Debug\BonusApp.pdb

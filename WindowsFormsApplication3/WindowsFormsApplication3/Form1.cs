@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace WindowsFormsApplication3
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string text1 = textBox1.Text;
+            string text2 = textBox2.Text;
+            string text3 = textBox3.Text;
+
+            label5.Text = text1 + " " + text2 + " " + text3;
+        }
+    }
+}

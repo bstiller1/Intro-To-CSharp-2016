@@ -1,0 +1,6 @@
+c:\users\triosstudent\documents\visual studio 2015\Projects\ArrayForeach\ArrayForeach\bin\Debug\ArrayForeach.exe.config
+c:\users\triosstudent\documents\visual studio 2015\Projects\ArrayForeach\ArrayForeach\bin\Debug\ArrayForeach.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\ArrayForeach\ArrayForeach\bin\Debug\ArrayForeach.pdb
+c:\users\triosstudent\documents\visual studio 2015\Projects\ArrayForeach\ArrayForeach\obj\Debug\ArrayForeach.csprojResolveAssemblyReference.cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\ArrayForeach\ArrayForeach\obj\Debug\ArrayForeach.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\ArrayForeach\ArrayForeach\obj\Debug\ArrayForeach.pdb

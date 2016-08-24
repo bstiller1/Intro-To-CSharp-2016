@@ -1,0 +1,6 @@
+c:\users\triosstudent\documents\visual studio 2015\Projects\SquaredExample\SquaredExample\bin\Debug\SquaredExample.exe.config
+c:\users\triosstudent\documents\visual studio 2015\Projects\SquaredExample\SquaredExample\bin\Debug\SquaredExample.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\SquaredExample\SquaredExample\bin\Debug\SquaredExample.pdb
+c:\users\triosstudent\documents\visual studio 2015\Projects\SquaredExample\SquaredExample\obj\Debug\SquaredExample.csprojResolveAssemblyReference.cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\SquaredExample\SquaredExample\obj\Debug\SquaredExample.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\SquaredExample\SquaredExample\obj\Debug\SquaredExample.pdb

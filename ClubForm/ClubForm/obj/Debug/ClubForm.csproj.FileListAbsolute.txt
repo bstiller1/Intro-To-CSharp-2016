@@ -1,0 +1,9 @@
+c:\users\triosstudent\documents\visual studio 2015\Projects\ClubForm\ClubForm\bin\Debug\ClubForm.exe.config
+c:\users\triosstudent\documents\visual studio 2015\Projects\ClubForm\ClubForm\bin\Debug\ClubForm.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\ClubForm\ClubForm\bin\Debug\ClubForm.pdb
+c:\users\triosstudent\documents\visual studio 2015\Projects\ClubForm\ClubForm\obj\Debug\ClubForm.csprojResolveAssemblyReference.cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\ClubForm\ClubForm\obj\Debug\ClubForm.Form1.resources
+c:\users\triosstudent\documents\visual studio 2015\Projects\ClubForm\ClubForm\obj\Debug\ClubForm.Properties.Resources.resources
+c:\users\triosstudent\documents\visual studio 2015\Projects\ClubForm\ClubForm\obj\Debug\ClubForm.csproj.GenerateResource.Cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\ClubForm\ClubForm\obj\Debug\ClubForm.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\ClubForm\ClubForm\obj\Debug\ClubForm.pdb

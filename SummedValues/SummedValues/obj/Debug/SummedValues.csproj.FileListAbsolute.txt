@@ -1,0 +1,6 @@
+c:\users\triosstudent\documents\visual studio 2015\Projects\SummedValues\SummedValues\bin\Debug\SummedValues.exe.config
+c:\users\triosstudent\documents\visual studio 2015\Projects\SummedValues\SummedValues\bin\Debug\SummedValues.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\SummedValues\SummedValues\bin\Debug\SummedValues.pdb
+c:\users\triosstudent\documents\visual studio 2015\Projects\SummedValues\SummedValues\obj\Debug\SummedValues.csprojResolveAssemblyReference.cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\SummedValues\SummedValues\obj\Debug\SummedValues.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\SummedValues\SummedValues\obj\Debug\SummedValues.pdb

@@ -1,0 +1,6 @@
+c:\users\triosstudent\documents\visual studio 2015\Projects\StatisMethods\StatisMethods\bin\Debug\StatisMethods.exe.config
+c:\users\triosstudent\documents\visual studio 2015\Projects\StatisMethods\StatisMethods\bin\Debug\StatisMethods.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\StatisMethods\StatisMethods\bin\Debug\StatisMethods.pdb
+c:\users\triosstudent\documents\visual studio 2015\Projects\StatisMethods\StatisMethods\obj\Debug\StaticMethods.csprojResolveAssemblyReference.cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\StatisMethods\StatisMethods\obj\Debug\StatisMethods.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\StatisMethods\StatisMethods\obj\Debug\StatisMethods.pdb

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BlankApp2.Common.NavigationHelper">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAAAUCAQAAAACAAIRAQAAAQAAAUAAAAAAAABAAk=</HashCode>
+      <FileName>Common\NavigationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlankApp2.Common.LoadStateEventArgs">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\NavigationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlankApp2.Common.SaveStateEventArgs">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\NavigationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="BlankApp2.Common.LoadStateEventHandler">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\NavigationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="BlankApp2.Common.SaveStateEventHandler">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\NavigationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

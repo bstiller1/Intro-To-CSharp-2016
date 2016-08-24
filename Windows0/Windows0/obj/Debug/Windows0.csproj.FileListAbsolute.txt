@@ -1,0 +1,9 @@
+c:\users\triosstudent\documents\visual studio 2015\Projects\Windows0\Windows0\bin\Debug\Windows0.exe.config
+c:\users\triosstudent\documents\visual studio 2015\Projects\Windows0\Windows0\bin\Debug\Windows0.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\Windows0\Windows0\bin\Debug\Windows0.pdb
+c:\users\triosstudent\documents\visual studio 2015\Projects\Windows0\Windows0\obj\Debug\Windows0.csprojResolveAssemblyReference.cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\Windows0\Windows0\obj\Debug\Windows0.Form1.resources
+c:\users\triosstudent\documents\visual studio 2015\Projects\Windows0\Windows0\obj\Debug\Windows0.Properties.Resources.resources
+c:\users\triosstudent\documents\visual studio 2015\Projects\Windows0\Windows0\obj\Debug\Windows0.csproj.GenerateResource.Cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\Windows0\Windows0\obj\Debug\Windows0.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\Windows0\Windows0\obj\Debug\Windows0.pdb

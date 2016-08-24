@@ -1,0 +1,41 @@
+﻿@{    ViewBag.Title = "Home Page";   }
+@{
+
+    if (IsPost)
+    {
+        string fname = Request.Form["fname"];
+        string lname = Request.Form["lname"];
+        string email = Request.Form["email"];
+
+        <text>
+            You entered: <br />
+@for(int i = 0; i < 3; i++)
+{
+@Request.Form[i];
+
+}
+Your first name is: @fname @lname, your email is @email
+
+        </text>
+        }
+    }
+<div class="jumbotron">
+    <h1>ASP.NET</h1>
+    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+    <p><a href="http://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Getting started</h2>
+        <p>
+            <form method="post">
+                First Name: <input type="text" name="fname" /><br />
+                Last Name: <input type="text" name="lname" /><br />
+                Email: <input type="text" name="email" /><br />
+                <input type="submit" name="submit" value="Submit" />
+            </form>
+            <label name="result" id="result"></label>
+        </p>
+        
+</div>

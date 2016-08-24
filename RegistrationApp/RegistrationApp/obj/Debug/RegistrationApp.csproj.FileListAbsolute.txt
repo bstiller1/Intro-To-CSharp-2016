@@ -1,0 +1,9 @@
+c:\users\triosstudent\documents\visual studio 2015\Projects\RegistrationApp\RegistrationApp\bin\Debug\RegistrationApp.exe.config
+c:\users\triosstudent\documents\visual studio 2015\Projects\RegistrationApp\RegistrationApp\bin\Debug\RegistrationApp.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\RegistrationApp\RegistrationApp\bin\Debug\RegistrationApp.pdb
+c:\users\triosstudent\documents\visual studio 2015\Projects\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.csprojResolveAssemblyReference.cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Form1.resources
+c:\users\triosstudent\documents\visual studio 2015\Projects\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.Properties.Resources.resources
+c:\users\triosstudent\documents\visual studio 2015\Projects\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.csproj.GenerateResource.Cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\RegistrationApp\RegistrationApp\obj\Debug\RegistrationApp.pdb

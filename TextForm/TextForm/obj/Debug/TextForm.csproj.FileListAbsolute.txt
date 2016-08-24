@@ -1,0 +1,9 @@
+c:\users\triosstudent\documents\visual studio 2015\Projects\TextForm\TextForm\bin\Debug\TextForm.exe.config
+c:\users\triosstudent\documents\visual studio 2015\Projects\TextForm\TextForm\bin\Debug\TextForm.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\TextForm\TextForm\bin\Debug\TextForm.pdb
+c:\users\triosstudent\documents\visual studio 2015\Projects\TextForm\TextForm\obj\Debug\TextForm.csprojResolveAssemblyReference.cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\TextForm\TextForm\obj\Debug\TextForm.Form1.resources
+c:\users\triosstudent\documents\visual studio 2015\Projects\TextForm\TextForm\obj\Debug\TextForm.Properties.Resources.resources
+c:\users\triosstudent\documents\visual studio 2015\Projects\TextForm\TextForm\obj\Debug\TextForm.csproj.GenerateResource.Cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\TextForm\TextForm\obj\Debug\TextForm.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\TextForm\TextForm\obj\Debug\TextForm.pdb

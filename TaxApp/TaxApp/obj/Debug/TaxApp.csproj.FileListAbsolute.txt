@@ -1,0 +1,9 @@
+c:\users\triosstudent\documents\visual studio 2015\Projects\TaxApp\TaxApp\bin\Debug\TaxApp.exe.config
+c:\users\triosstudent\documents\visual studio 2015\Projects\TaxApp\TaxApp\bin\Debug\TaxApp.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\TaxApp\TaxApp\bin\Debug\TaxApp.pdb
+c:\users\triosstudent\documents\visual studio 2015\Projects\TaxApp\TaxApp\obj\Debug\TaxApp.csprojResolveAssemblyReference.cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\TaxApp\TaxApp\obj\Debug\TaxApp.Form1.resources
+c:\users\triosstudent\documents\visual studio 2015\Projects\TaxApp\TaxApp\obj\Debug\TaxApp.Properties.Resources.resources
+c:\users\triosstudent\documents\visual studio 2015\Projects\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.GenerateResource.Cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\TaxApp\TaxApp\obj\Debug\TaxApp.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\TaxApp\TaxApp\obj\Debug\TaxApp.pdb

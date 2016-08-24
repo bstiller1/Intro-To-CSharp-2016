@@ -1,0 +1,11 @@
+c:\users\triosstudent\documents\visual studio 2015\Projects\dbStoreApp\dbStoreApp\bin\Debug\dbStoreApp.exe.config
+c:\users\triosstudent\documents\visual studio 2015\Projects\dbStoreApp\dbStoreApp\bin\Debug\store.mdf
+c:\users\triosstudent\documents\visual studio 2015\Projects\dbStoreApp\dbStoreApp\bin\Debug\store_log.ldf
+c:\users\triosstudent\documents\visual studio 2015\Projects\dbStoreApp\dbStoreApp\obj\Debug\dbStoreApp.csprojResolveAssemblyReference.cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\dbStoreApp\dbStoreApp\obj\Debug\dbStoreApp.Form1.resources
+c:\users\triosstudent\documents\visual studio 2015\Projects\dbStoreApp\dbStoreApp\obj\Debug\dbStoreApp.Properties.Resources.resources
+c:\users\triosstudent\documents\visual studio 2015\Projects\dbStoreApp\dbStoreApp\obj\Debug\dbStoreApp.csproj.GenerateResource.Cache
+c:\users\triosstudent\documents\visual studio 2015\Projects\dbStoreApp\dbStoreApp\obj\Debug\dbStoreApp.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\dbStoreApp\dbStoreApp\obj\Debug\dbStoreApp.pdb
+c:\users\triosstudent\documents\visual studio 2015\Projects\dbStoreApp\dbStoreApp\bin\Debug\dbStoreApp.exe
+c:\users\triosstudent\documents\visual studio 2015\Projects\dbStoreApp\dbStoreApp\bin\Debug\dbStoreApp.pdb

@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    if (IsPost)
+    {
+        string fname = Request.Form["fname"];
+
+    }
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WebRazor</title>
+</head>
+<body>
+    <form method="post">
+        <label for="fname"><input id="fname" name="fname" type="text" /></label>
+        <label for="lname"><input id="lname" name="lname" type="text" /></label>
+        <label for="email"><input id="email" name="email" type="text" /></label>
+        <input id="Button1" type="button" value="submit" />
+    </form>
+    <label id="result" name="result"></label>
+</body>
+</html>
